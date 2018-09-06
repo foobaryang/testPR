@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi foobaryang
+=======
+hi foobaryang
+>>>>>>> f985bb4c07e8bb146ec67921bf2d79184ab9f856
